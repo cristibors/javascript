@@ -1,0 +1,5 @@
+let fruits = ["a","b","c","d","e"]
+
+console.log(fruits)
+fruits.push(f)
+console.log("PUSH:\")

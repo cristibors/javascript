@@ -1,0 +1,6 @@
+function sqr(a=0){
+    patrat = a*a;
+    return patrat;
+}
+
+consoloe.log(sqr(5))
