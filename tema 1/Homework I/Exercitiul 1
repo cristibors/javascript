@@ -1,0 +1,6 @@
+let c = 3;
+let d = 1 + (c *= 2);
+
+console.log("Exercițiul 1:");
+console.log("c =", c); // 6
+console.log("d =", d); // 7

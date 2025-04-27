@@ -1,0 +1,7 @@
+function calculeazaAriaDreptunghiului(latime, inaltime) {
+    return latime * inaltime;
+  }
+  
+  let aria = calculeazaAriaDreptunghiului(5, 10);
+
+  console.log("Aria dreptunghiului este: " + aria);

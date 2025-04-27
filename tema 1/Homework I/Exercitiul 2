@@ -1,0 +1,10 @@
+let a = "b";
+let b = 3;
+b = a; 
+
+
+let c2 = a + b; 
+console.log("Exercițiul 2:");
+console.log("a =", a); 
+console.log("b =", b); 
+console.log("c2 =", c2); 

@@ -1,0 +1,5 @@
+let a = 2;
+for (let i = 0; i < 5; i++) {
+  console.log(i + a);
+}
+console.log('Ultima valoare afișată este 6');
